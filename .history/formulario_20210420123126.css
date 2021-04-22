@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+#titulo {
+  font-family: sans-serif;
+  color: #380061;
+  margin-left: 7%;
+}
+#subtitulo{
+  font-family: sans-serif;
+  color: #380061;
+  margin-left: 10%;
+}
+
+fieldset {
+  border: 0;
+}
+ 
+body{
+  background-color: #f
+}
